@@ -1,0 +1,18 @@
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\bin\Debug\net6.0-windows\Билет 18.exe
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\bin\Debug\net6.0-windows\Билет 18.deps.json
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\bin\Debug\net6.0-windows\Билет 18.runtimeconfig.json
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\bin\Debug\net6.0-windows\Билет 18.dll
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\bin\Debug\net6.0-windows\Билет 18.pdb
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет 18.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет_18.Form1.resources
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет_18.Form2.resources
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет 18.csproj.GenerateResource.cache
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет 18.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет 18.AssemblyInfo.cs
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет 18.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет 18.dll
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\refint\Билет 18.dll
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет 18.pdb
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\Билет 18.genruntimeconfig.cache
+C:\Users\KING\source\repos\Билеты\Билет 18\Билет 18\obj\Debug\net6.0-windows\ref\Билет 18.dll
