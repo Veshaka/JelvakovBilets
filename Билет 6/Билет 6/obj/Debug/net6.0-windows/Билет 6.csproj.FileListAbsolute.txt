@@ -1,0 +1,50 @@
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.exe
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.deps.json
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.runtimeconfig.json
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.dll
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.pdb
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет_6.Form1.resources
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.csproj.GenerateResource.cache
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.AssemblyInfo.cs
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.dll
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\refint\Билет 6.dll
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.pdb
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.genruntimeconfig.cache
+C:\Users\KING\source\repos\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\ref\Билет 6.dll
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.exe
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.deps.json
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.runtimeconfig.json
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.dll
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.pdb
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет_6.Form1.resources
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.csproj.GenerateResource.cache
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.AssemblyInfo.cs
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.dll
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\refint\Билет 6.dll
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.pdb
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.genruntimeconfig.cache
+C:\Users\King Night\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\ref\Билет 6.dll
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.exe
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.deps.json
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.runtimeconfig.json
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.dll
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\bin\Debug\net6.0-windows\Билет 6.pdb
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.csproj.AssemblyReference.cache
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет_6.Form1.resources
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.csproj.GenerateResource.cache
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.AssemblyInfoInputs.cache
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.AssemblyInfo.cs
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.csproj.CoreCompileInputs.cache
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.dll
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\refint\Билет 6.dll
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.pdb
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\Билет 6.genruntimeconfig.cache
+C:\Users\KING\Desktop\Билеты\Билет 6\Билет 6\obj\Debug\net6.0-windows\ref\Билет 6.dll
