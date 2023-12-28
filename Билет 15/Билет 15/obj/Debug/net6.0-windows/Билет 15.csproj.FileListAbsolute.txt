@@ -1,0 +1,17 @@
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\bin\Debug\net6.0-windows\Билет 15.exe
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\bin\Debug\net6.0-windows\Билет 15.deps.json
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\bin\Debug\net6.0-windows\Билет 15.runtimeconfig.json
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\bin\Debug\net6.0-windows\Билет 15.dll
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\bin\Debug\net6.0-windows\Билет 15.pdb
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет 15.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет_15.Form1.resources
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет 15.csproj.GenerateResource.cache
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет 15.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет 15.AssemblyInfo.cs
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет 15.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет 15.dll
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\refint\Билет 15.dll
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет 15.pdb
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\Билет 15.genruntimeconfig.cache
+C:\Users\KING\source\repos\Билеты\Билет 15\Билет 15\obj\Debug\net6.0-windows\ref\Билет 15.dll
