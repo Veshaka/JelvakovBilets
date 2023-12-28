@@ -1,0 +1,35 @@
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет_20.Form1.resources
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет_20.Form2.resources
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.csproj.GenerateResource.cache
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.AssemblyInfo.cs
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.exe
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.deps.json
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.runtimeconfig.json
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.dll
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.pdb
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.dll
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\refint\Билет 20.dll
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.pdb
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.genruntimeconfig.cache
+C:\Users\King Night\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\ref\Билет 20.dll
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.exe
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.deps.json
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.runtimeconfig.json
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.dll
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\bin\Debug\net6.0-windows\Билет 20.pdb
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.csproj.AssemblyReference.cache
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет_20.Form1.resources
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет_20.Form2.resources
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.csproj.GenerateResource.cache
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.AssemblyInfoInputs.cache
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.AssemblyInfo.cs
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.csproj.CoreCompileInputs.cache
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.dll
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\refint\Билет 20.dll
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.pdb
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\Билет 20.genruntimeconfig.cache
+C:\Users\KING\Desktop\Билеты\Билет 20\Билет 20\obj\Debug\net6.0-windows\ref\Билет 20.dll
